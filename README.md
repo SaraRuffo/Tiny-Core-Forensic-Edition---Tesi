@@ -7,4 +7,4 @@ Installer Tiny Core Forensic Edition per hard disk e aggiornamento di:
  - TinyCore
  - Tool forensi
 https://github.com/Flavius12/TinyCore-FE-Installer
-By Flavio Collocola (@Flavius12)
+By Flavio Collocola ([@Flavius12])
